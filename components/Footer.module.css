@@ -1,0 +1,22 @@
+
+.footerContainer {
+    background-color: #00796B;
+    padding: 20px;
+    color: #99FFFF;
+}
+
+.footerList {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+.footerHeading {
+    font-size: 1.5rem;
+    margin-bottom: 10px;
+}
+
+.footerText {
+    font-size: 1rem;
+    color: #D0F0C0;
+}

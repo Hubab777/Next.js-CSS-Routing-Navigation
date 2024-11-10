@@ -1,0 +1,28 @@
+
+.navbarContainer {
+    background-color: #EFDECD;
+    min-height: 100vh;
+    padding: 20px;
+    text-align: center;
+}
+
+.heading {
+    color: #006699;
+    font-size: 2rem;
+    margin-bottom: 20px;
+}
+
+.homeLink {
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: #006699;
+    color: white;
+    text-decoration: none;
+    border-radius: 5px;
+    border: 2px solid #004466;
+    transition: background-color 0.3s ease;
+}
+
+.homeLink:hover {
+    background-color: #004466;
+}
